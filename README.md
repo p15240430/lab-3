@@ -4,7 +4,7 @@ If you have GIT available, *clone* this repository using `git clone https://gith
 
 You must then create *your own repository on GitHub* for these files, then change the GIT remote to the GitHub URL for your new repository with the following commands:
 
-- `git remote rm origin`
+- `git remote rm orittt55`
 - `git remote set-url origin [YOUR_REPO_URL_HERE]`
 
 This exercise introduces a few fundamental Javascript principles:
